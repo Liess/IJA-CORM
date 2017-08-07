@@ -1,0 +1,1827 @@
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+c:\users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\MetroFramework.dll
+C:\Users\maskarino\Documents\Visual Studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Documents\Visual Studio 2015\Projects\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\documents\visual studio 2015\Projects\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\UPD\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+F:\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+F:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+D:\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+D:\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+H:\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\New folder\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\After 75 Grade\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Downloads\Mediafire\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+F:\Mediafire\Mediafire - Copy\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+E:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+F:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+H:\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\ADD NEW\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\eto yun\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\UPDATED UI\reg\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\eto yun VERSIONS\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\With Return\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerPanel.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+F:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\With Maintenance Editing\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\With Maintenance Editing - Copy (2)\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+C:\Users\maskarino\Desktop\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+H:\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+C:\Users\Mj\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+F:\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\FROM NEST\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.UserControl1.resources
+C:\Users\Mj\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\Glen\Desktop\Advance Search Full\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminLogIn.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.AdminPanel.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Borrow.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Front.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.IDpicture2.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Inventory.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemInfo.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.ItemReq.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.loadingscreenn.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.maintenance.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Properties.Resources.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE_CORM.Rent.resources
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Mj\Desktop\Advance Search Full(reports)\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\maskarino\Desktop\FROM NEST\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\ \QRcodes\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\maskarino\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\Finalizing system\SYSTEM\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Documents\System\New folder\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\Mj\Desktop\Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+H:\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddVendor.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddModel.resources
+C:\Users\maskarino\Desktop\[Mj Finalized] Finalizing system\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddModel.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddVendor.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddModel.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddVendor.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.OverdueNotifFList.resources
+C:\Users\maskarino\Desktop\From Ernest\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe.config
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\IJE-CORM.pdb
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MaterialSkin.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\MySql.Data.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\WinFormAnimation.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.pdb
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.pdb
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\zxing.presentation.xml
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddModel.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddVendor.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.OverdueNotifFList.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Mj\Desktop\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csprojResolveAssemblyReference.cache
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.ResolveComReference.cache
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddDepartment.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddingDataSplashScreen.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddModel.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.addPosition.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddSection.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AddVendor.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminLogIn.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.AdminPanel.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Borrow.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowedItemDetail.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.BorrowerInfo.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Front.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.IDpicture2.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Inventory.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemInfo.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.ItemReq.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.loadingscreenn.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.maintenance.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Notification.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.OverdueNotifFList.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Properties.Resources.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.Rent.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendingMessageSplashScreen.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SendMessage.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE.SuccessSplashScreen.resources
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.csproj.GenerateResource.Cache
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.exe
+C:\Users\Ernest John\Documents\ERNEST\Updated Notification\SYSTEM\backup 914\IJE-CORM\IJE-CORM\obj\Debug\IJE-CORM.pdb

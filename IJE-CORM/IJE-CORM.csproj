@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C4CEECF-E47C-47A3-B64E-B4695B51529F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IJE</RootNamespace>
+    <AssemblyName>IJE-CORM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="C1.Win.2, Version=2.0.20162.188, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04" />
+    <Reference Include="C1.Win.C1BarCode.2, Version=2.0.20162.188, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Command.2, Version=2.0.20162.188, Culture=neutral, PublicKeyToken=e808566f358766d8" />
+    <Reference Include="C1.Win.C1Input.2, Version=2.0.20162.188, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1List.4, Version=4.0.20162.188, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.14.0.1\lib\net40\zxing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.14.0.1\lib\net40\zxing.presentation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDepartment.Designer.cs">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingDataSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingDataSplashScreen.Designer.cs">
+      <DependentUpon>AddingDataSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddModel.Designer.cs">
+      <DependentUpon>AddModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addPosition.Designer.cs">
+      <DependentUpon>addPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSection.Designer.cs">
+      <DependentUpon>AddSection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVendor.Designer.cs">
+      <DependentUpon>AddVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogIn.Designer.cs">
+      <DependentUpon>AdminLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Borrow.Designer.cs">
+      <DependentUpon>Borrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowedItemDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowedItemDetail.Designer.cs">
+      <DependentUpon>BorrowedItemDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowerInfo.Designer.cs">
+      <DependentUpon>BorrowerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeGenerator.cs" />
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="FacultyListReports2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FacultyListReports2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormAnimator.cs" />
+    <Compile Include="Front.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Front.Designer.cs">
+      <DependentUpon>Front.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDpicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDpicture.Designer.cs">
+      <DependentUpon>IDpicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDpicture2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDpicture2.Designer.cs">
+      <DependentUpon>IDpicture2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryReportList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryReportList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemInfo.Designer.cs">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemReq.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemReq.Designer.cs">
+      <DependentUpon>ItemReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOfDamageItemsReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ListOfDamageItemsReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="loadingscreenn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loadingscreenn.Designer.cs">
+      <DependentUpon>loadingscreenn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="maintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maintenance.Designer.cs">
+      <DependentUpon>maintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OverdueNotifFList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OverdueNotifFList.Designer.cs">
+      <DependentUpon>OverdueNotifFList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Rent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rent.Designer.cs">
+      <DependentUpon>Rent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendingMessageSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendingMessageSplashScreen.Designer.cs">
+      <DependentUpon>SendingMessageSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendMessage.Designer.cs">
+      <DependentUpon>SendMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentListReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentListReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SuccessSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuccessSplashScreen.Designer.cs">
+      <DependentUpon>SuccessSplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddDepartment.resx">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingDataSplashScreen.resx">
+      <DependentUpon>AddingDataSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddModel.resx">
+      <DependentUpon>AddModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addPosition.resx">
+      <DependentUpon>addPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSection.resx">
+      <DependentUpon>AddSection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVendor.resx">
+      <DependentUpon>AddVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogIn.resx">
+      <DependentUpon>AdminLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrow.resx">
+      <DependentUpon>Borrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowedItemDetail.resx">
+      <DependentUpon>BorrowedItemDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowerInfo.resx">
+      <DependentUpon>BorrowerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacultyListReports2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FacultyListReports2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Front.resx">
+      <DependentUpon>Front.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDpicture.resx">
+      <DependentUpon>IDpicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDpicture2.resx">
+      <DependentUpon>IDpicture2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryReportList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InventoryReportList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInfo.resx">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemReq.resx">
+      <DependentUpon>ItemReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOfDamageItemsReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ListOfDamageItemsReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loadingscreenn.resx">
+      <DependentUpon>loadingscreenn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maintenance.resx">
+      <DependentUpon>maintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OverdueNotifFList.resx">
+      <DependentUpon>OverdueNotifFList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rent.resx">
+      <DependentUpon>Rent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendingMessageSplashScreen.resx">
+      <DependentUpon>SendingMessageSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendMessage.resx">
+      <DependentUpon>SendMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentListReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentListReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuccessSplashScreen.resx">
+      <DependentUpon>SuccessSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IJA logo 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IJA-logo-3 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custodian%27s Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custodian%27s Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custodian%27s Logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login as administrator1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System banner and logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodian button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrower button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loadingscreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preloader.gif.pagespeed.ce.kTTfnPFCn7 %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\one.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow rent button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shutdown button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowers info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large-square-for-pattern-block-set-clipart-etc-IFFxWg-clipart.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgclock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgpanel %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-clock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cam %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camborder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\announcement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminpanel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminpanel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminpanel3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bggg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login as administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login as administrator2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudentID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maintenance-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrower.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uppanel21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loadingscreennn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IJA Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminlog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10369194_905380469496090_249556376171293455_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System banner and logo 41.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodian button copy1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrower button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete button copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainmenu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrowers  info button copy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow list button copy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory button copy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports button copy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout button copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAIN MENU.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REGISTRATION.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BORROW LISTS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BORROWERS INFORMATION.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETTING.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14341672_1072507262786232_1065216727_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN FINAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\regbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsImg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsSelect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktopimg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktopselect2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktopimg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktopimg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktophover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdownhover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdownimg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdownselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerInfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anni8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerNormal.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodianNormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerHover.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerNormal1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerSelect.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodianHover.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodianNormal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custodianSelect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logouthover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutnormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addexistinghover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addexistingnormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addexistingselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addhover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\additemnormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletehover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletenormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addItembg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddItemPanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddItemPanel3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenacebutton %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddExistingItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddExistingItem2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blackborder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\categorybg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\submit.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\section.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\department.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\position.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\model.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QrCode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registerbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemDetails.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itemdetailpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemDetails3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editbutt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatebutt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelbutt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearbutt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closebutt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrwerspanel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerinfo1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrwerspanel1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerinfo2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BORROWERS MENU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowerInfo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BORROW2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\returnnn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowepanel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\returnpanel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\returnbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrowbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\capturenormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\capturehover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\captureselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploadhover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploadnormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploadselect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IDpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borroweditemdetail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IDpicture222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FacultyID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\model2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\position2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vendor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\section2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\department2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSectionHover.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDepartment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPosition.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sectionpanel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel4 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\positionpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\departmentpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSectionSelect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDepartmentHover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddDepartmentSelect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPositionHover.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPositionSelect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveButton.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CancelButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaptureButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminaccount.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idtemplate.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendingmess.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sucess.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eece454d38a9d04b0ef952128a64ff36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendemail %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shownotifs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendmess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingData.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IJAIDBack[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\notifboard.png" />
+    <None Include="Resources\print.png" />
+    <None Include="Resources\nextbutt.PNG" />
+    <None Include="Resources\cancelbuttons.png" />
+    <None Include="Resources\submitbutt.png" />
+    <None Include="Resources\modelpanel.png" />
+    <None Include="Resources\vendorpanel.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
